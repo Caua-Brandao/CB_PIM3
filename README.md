@@ -1,4 +1,4 @@
-# CB_
+# CB_PIM3
 
 # Desafio
 Desenvolver o projeto de uma plataforma web de avaliação e apoio à aprendizagem para uma empresa fictícia de tecnologia educacional, integrando conceitos de engenharia de software ágil, modelagem de dados, programação orientada a objetos, desenvolvimento web responsivo, UX/UI design e análise de dados, com foco na tomada de decisão baseada em informações de desempenho dos usuários. 
